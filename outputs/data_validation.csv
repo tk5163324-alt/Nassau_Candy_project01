@@ -1,0 +1,7 @@
+Check,Result
+Original rows,10194
+Rows after cleaning,10194
+Duplicate rows removed,0
+Invalid/missing rows removed,0
+Profit mismatches > $0.01,0
+Missing Units remaining,0
